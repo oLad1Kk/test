@@ -1,5 +1,6 @@
 struct Date{
-
-
-
+	int date = 0;
+	int month = 0;
+	int year = 0;
+void showDate();
 };
